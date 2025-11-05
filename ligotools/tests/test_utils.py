@@ -1,6 +1,5 @@
 import ligotools.utils as ul
 import numpy as np
-import os
 from pathlib import Path
 
 def test_whiten():
