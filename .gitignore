@@ -1,3 +1,5 @@
 *.egg-info/
 build/
 audio/test.wav
+# MyST build outputs
+_build
