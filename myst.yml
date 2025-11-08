@@ -6,8 +6,7 @@ project:
   # description:
   # keywords: []
   authors:
-    - name: Sofia Lendahl
-      affiliation: UC Berkeley
+    - name: Ligo Scientific Collaboration (LSC) and Sofia Lendahl
   github: https://github.com/UCB-stat-159-f25/hw3-sofialen0408
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:

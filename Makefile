@@ -8,4 +8,4 @@ html :
 
 .PHONY : clean
 clean : 
-	rm -f figures/* audio/* _build/* 
+	rm -rf figures/* audio/* _build/*
